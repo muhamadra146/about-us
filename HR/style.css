@@ -1,0 +1,15 @@
+*,html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    height: 70;
+    padding: 0 70 0 70;
+}
+
+.logo {
+    width: 176px;
+    height: 39px;
+}

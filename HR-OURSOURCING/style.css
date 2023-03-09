@@ -1,0 +1,277 @@
+*,html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body h1 {
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;    
+}
+
+body p {
+    text-align: left;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.navbar {
+    height: 70;
+    padding: 0 70 0 70;
+}
+
+.logo {
+    width: 176px;
+    height: 39px;
+}
+
+.section1 .content1 {
+    display: flex;
+    align-items: center;
+    margin-top: 90;
+}
+
+.btn1 {
+    width: 187px;
+    height: 36px;
+    background: #312ECB;
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
+
+.section2 {
+    margin-top: 90px;
+}
+
+.section2 .content2 {
+    display: flex;
+    align-items: center;
+    margin-top: 90;
+}
+
+.section3 {
+    margin-top: 217;
+}
+
+.section4 {
+    margin-top: 72;
+}
+
+.section4 .col-6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.headercard {
+    display: flex;
+    align-items: center;
+}
+
+.headercard img {
+    height: 57px;
+    width: 57px;
+}
+
+.section5 {
+    margin-top: 202;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.section5 .content5 {
+    width: 875;
+    height: auto;
+}
+
+.section5 h2 {
+    font-size: 25;
+    font-weight: 400;
+}
+
+.section6 {
+    width: 100%;
+    height: 723;
+    background-image: url(gambar/Vector1.png);
+    background-size: cover;
+    margin-top: 142;
+}
+
+.section6 h1 {
+    margin-top: 136px;
+
+}
+
+.section6 h4 {
+    margin-left: 144;
+    font-weight: 700;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 223;
+}
+
+.section6 .cardd {
+    margin-top: 78;
+    display: flex;
+    justify-content: center;
+}
+
+.section6 .card1{
+    width: 338;
+    height: 185;
+    background: #0D1C37;
+    margin-right: 75;
+    border-radius: 10px;
+    padding-left: 34;
+    padding-top: 28;
+    color: white;
+
+}
+
+.card1 img {
+    width: 60;
+    height: 60;
+}
+
+.cardd p {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    margin-top: 20;
+}
+
+.section7 {
+    margin-top: 64;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.section8 {
+    margin-top: 100;
+}
+
+.section8 form {
+    width: 1164;
+    height: auto;
+    margin: auto;
+}
+
+.section9 {
+    height: 380;
+    background-color: #0D1C37;
+    margin-top: 100;
+    padding: 80 170 0 71;
+}
+
+.section9 p {
+    color: white;
+    font-size: 18px;
+}
+
+.section9 ul {
+    list-style: none;
+}
+
+.section9 ul li {
+    margin-top: 17;
+}
+
+.section9 a {
+    text-decoration: none;
+    color: white;
+}
+
+.section9 h1 {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    margin-left: 33;
+}
+
+.bawah {
+    display: flex;
+    justify-content: space-between;
+    height: 72;
+    align-items: center;
+    padding: 0 75;
+}
+
+.footer ul li {
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    margin-left: 51; 
+}
+
+.about-section1 {
+    margin-top: 80;
+    padding-left: 138;
+}
+
+.about-section1 img {
+    width: 100%;
+}
+.about-as {
+    padding-top: 120;
+}
+
+.about-section2 {
+    padding: 205 12 3 0 138;
+    background-image: url(gambar/Vector1.png);
+    margin-top: 67; 
+}
+
+.about-section3 {
+    margin-top: 60;
+    padding: 0 123 0 138;
+}
+
+.about-section4 {
+    margin-top: 211;
+    padding: 0 123 0 138;
+}
+
+.about-section4 img {
+    float: left;
+}
+
+.about-section4 .row {
+    margin-bottom: 78;
+}
+
+.about-section4 .col-6 {
+    padding-right: 70;
+}
+
+.about-section5 {
+    display: flex;
+    text-align: center;
+    padding: 0 123 0 138;
+    margin-top: 154;
+}
+
+.about-section5 img:hover {
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.about-section5 .row h1 {
+    text-align: center;
+    margin-bottom: 57;
+}
+
+.about-section5 .row h2 {
+    text-align: left;
+}
+
+.about-section5 .row {
+    margin-bottom: 50;
+}
